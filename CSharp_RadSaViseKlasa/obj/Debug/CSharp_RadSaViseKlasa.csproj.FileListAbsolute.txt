@@ -1,0 +1,17 @@
+C:\Users\student\Desktop\CSharp_RadSaViseKlasa\CSharp_RadSaViseKlasa\bin\Debug\CSharp_RadSaViseKlasa.exe
+C:\Users\student\Desktop\CSharp_RadSaViseKlasa\CSharp_RadSaViseKlasa\bin\Debug\CSharp_RadSaViseKlasa.pdb
+C:\Users\student\Desktop\CSharp_RadSaViseKlasa\CSharp_RadSaViseKlasa\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\student\Desktop\CSharp_RadSaViseKlasa\CSharp_RadSaViseKlasa\obj\Debug\CSharp_RadSaViseKlasa.FormStudenti.resources
+C:\Users\student\Desktop\CSharp_RadSaViseKlasa\CSharp_RadSaViseKlasa\obj\Debug\CSharp_RadSaViseKlasa.FormUnosNovogStudenta.resources
+C:\Users\student\Desktop\CSharp_RadSaViseKlasa\CSharp_RadSaViseKlasa\obj\Debug\CSharp_RadSaViseKlasa.Properties.Resources.resources
+C:\Users\student\Desktop\CSharp_RadSaViseKlasa\CSharp_RadSaViseKlasa\obj\Debug\CSharp_RadSaViseKlasa.csproj.GenerateResource.Cache
+C:\Users\student\Desktop\CSharp_RadSaViseKlasa\CSharp_RadSaViseKlasa\obj\Debug\CSharp_RadSaViseKlasa.exe
+C:\Users\student\Desktop\CSharp_RadSaViseKlasa\CSharp_RadSaViseKlasa\obj\Debug\CSharp_RadSaViseKlasa.pdb
+C:\Users\HAL\Desktop\CSharp_RadSaViseKlasa\CSharp_RadSaViseKlasa\CSharp_RadSaViseKlasa\obj\Debug\CSharp_RadSaViseKlasa.exe
+C:\Users\HAL\Desktop\CSharp_RadSaViseKlasa\CSharp_RadSaViseKlasa\CSharp_RadSaViseKlasa\obj\Debug\CSharp_RadSaViseKlasa.pdb
+C:\Users\HAL\Desktop\CSharp_RadSaViseKlasa\CSharp_RadSaViseKlasa\CSharp_RadSaViseKlasa\bin\Debug\CSharp_RadSaViseKlasa.exe
+C:\Users\HAL\Desktop\CSharp_RadSaViseKlasa\CSharp_RadSaViseKlasa\CSharp_RadSaViseKlasa\bin\Debug\CSharp_RadSaViseKlasa.pdb
+C:\Users\HAL\Desktop\CSharp_RadSaViseKlasa\CSharp_RadSaViseKlasa\CSharp_RadSaViseKlasa\obj\Debug\CSharp_RadSaViseKlasa.FormStudenti.resources
+C:\Users\HAL\Desktop\CSharp_RadSaViseKlasa\CSharp_RadSaViseKlasa\CSharp_RadSaViseKlasa\obj\Debug\CSharp_RadSaViseKlasa.FormUnosNovogStudenta.resources
+C:\Users\HAL\Desktop\CSharp_RadSaViseKlasa\CSharp_RadSaViseKlasa\CSharp_RadSaViseKlasa\obj\Debug\CSharp_RadSaViseKlasa.Properties.Resources.resources
+C:\Users\HAL\Desktop\CSharp_RadSaViseKlasa\CSharp_RadSaViseKlasa\CSharp_RadSaViseKlasa\obj\Debug\CSharp_RadSaViseKlasa.csproj.GenerateResource.Cache
